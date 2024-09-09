@@ -1,0 +1,2 @@
+# rossz_program
+javítani
