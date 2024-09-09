@@ -1,2 +1,2 @@
-# rossz_program
+# 1.feladat beadandó
 javítani
