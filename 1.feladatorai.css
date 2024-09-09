@@ -80,6 +80,7 @@
 #tarolo3{
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 #quadtarolo1{
@@ -90,8 +91,9 @@
 
 #quadtarolo2{
     background-color: yellow;
-    height: 300px;
+    height: 600px;
     width: 100%;
+    order: 1;
 }
 
 
