@@ -1,2 +1,2 @@
 # 1.feladat beadandó
-javítani
+Kész
