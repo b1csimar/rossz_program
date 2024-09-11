@@ -45,34 +45,31 @@
 
 
 
-#tarolo2{
+#taroloketto{
     display: flex;
     justify-content: center;
     flex-direction: row-reverse;
-    height: 300px;
+    
     
 }
 
 #tritarolo1{
     background-color: green;
-    
-    /*width: 25%;*/
-    flex: 1;
+    height: 300px;
+    width: 100%;
 }
 
 #tritarolo2{
     background-color: yellow;
-    
-    /*width: 50%;*/
-    flex: 2;
+    height: 300px;
+    width: 100%;
 }
 
 
 #tritarolo3{
     background-color: purple;
-    
-    /*width: 25%;*/
-    flex: 1;
+    height: 300px;
+    width: 100%;
 }
 
 
